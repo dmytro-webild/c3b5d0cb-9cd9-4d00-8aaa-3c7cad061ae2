@@ -26,7 +26,7 @@ export default function LandingPage() {
     >
       <div id="nav" data-section="nav">
         <NavbarLayoutFloatingInline
-          brandName="ProTint Pueblo"
+          brandName="Cangrejo Window Tinting"
           navItems={[
             { name: "Home", id: "hero" },
             { name: "About", id: "about" },
@@ -87,15 +87,15 @@ export default function LandingPage() {
           features={[
             {
               id: 1,
-              title: "Full Auto Window Tinting",              description: "Professional quality tinting for all vehicle windows. UV protection, privacy, and heat reduction in one service.",              imageSrc: "http://img.b2bpic.net/free-photo/spoiler-car-roof-close-up-photo_1303-31688.jpg",              imageAlt: "window tinting application auto glass professional"
+              title: "Full Auto Window Tinting",              description: "Professional quality tinting for all vehicle windows. UV protection, privacy, and heat reduction in one service.",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AzsujPLHrevVX7Bo9bhl79mkG6/uploaded-1773634159569-2v7v0bt5.jpg",              imageAlt: "window tinting application auto glass professional"
             },
             {
               id: 2,
-              title: "Windshield Repair",              description: "Expert windshield damage repair and replacement. Quick service to get you back on the road safely.",              imageSrc: "http://img.b2bpic.net/free-photo/mid-adult-mechanic-examining-vehicle-hood-while-working-auto-repair-shop_637285-7664.jpg",              imageAlt: "windshield repair glass replacement auto shop"
+              title: "Windshield Repair",              description: "Expert windshield damage repair and replacement. Quick service to get you back on the road safely.",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AzsujPLHrevVX7Bo9bhl79mkG6/uploaded-1773634159569-d1snr359.jpg",              imageAlt: "windshield repair glass replacement auto shop"
             },
             {
               id: 3,
-              title: "Best Prices Guaranteed",              description: "Competitive pricing without compromising quality. We beat any legitimate quote in the Pueblo area.",              imageSrc: "http://img.b2bpic.net/free-photo/portrait-salesman-car-dealership_23-2148130098.jpg",              imageAlt: "affordable pricing best deal car service"
+              title: "Best Prices Guaranteed",              description: "Competitive pricing without compromising quality. We beat any legitimate quote in the Pueblo area.",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AzsujPLHrevVX7Bo9bhl79mkG6/uploaded-1773609249179-ifqto98r.jpg",              imageAlt: "affordable pricing best deal car service"
             }
           ]}
           buttons={[
@@ -107,8 +107,8 @@ export default function LandingPage() {
 
       <div id="metrics" data-section="metrics">
         <MetricCardTwo
-          title="Why Choose ProTint Pueblo"
-          description="Proven expertise and customer satisfaction metrics that demonstrate our commitment to quality service."
+          title="Why Choose Cangrejo"
+          description="Best PrProven expertise and customercommitment  satisfaction metrics that demonstrate our to quality service."
           tag="Our Track Record"
           tagIcon={Award}
           tagAnimation="slide-up"
