@@ -42,9 +42,9 @@ export default function LandingPage() {
 
       <div id="hero" data-section="hero">
         <HeroSplit
-          title="Premium Window Tinting in Pueblo, CO"
-          description="Professional auto window tinting and windshield repair services. Best prices guaranteed. Protect your vehicle with quality tinting and expert repair work."
-          tag="Pueblo's Trusted Tinting Expert"
+          title="Cangrejo Window Tinting"
+          description="Professional auto window tinting and windshield repair services. Best prices guaranteed. Protect your vehicle with quality tinting and expert repair work. Free estimates."
+          tag="Local - Family Owned"
           tagIcon={Sparkles}
           tagAnimation="slide-up"
           background={{ variant: "animated-grid" }}
@@ -53,7 +53,7 @@ export default function LandingPage() {
             { text: "Learn More", href: "#about" }
           ]}
           buttonAnimation="slide-up"
-          imageSrc="http://img.b2bpic.net/free-photo/panning-shot-cars-with-sleek-design-showroom-waiting-be-purchased_482257-124026.jpg"
+          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AzsujPLHrevVX7Bo9bhl79mkG6/uploaded-1773609249179-4ts0utks.jpg"
           imageAlt="professional car window tinting service vehicle"
           mediaAnimation="blur-reveal"
           imagePosition="right"
