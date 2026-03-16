@@ -133,12 +133,12 @@ export default function LandingPage() {
         <ContactSplit
           tag="Ready to Protect Your Vehicle?"
           title="Get Your Free Quote Today"
-          description="Contact ProTint Pueblo for professional window tinting and windshield repair. We offer competitive pricing and expert service in Pueblo, CO."
+          description="Contact Cangrejo Window Tinting for a free estimate. We offer competitive pricing and expert service in Pueblo, CO."
           tagIcon={MessageCircle}
           tagAnimation="slide-up"
           background={{ variant: "animated-grid" }}
           useInvertedBackground={true}
-          imageSrc="http://img.b2bpic.net/free-photo/worker-follows-car-checklist-fixing-tires_482257-75661.jpg"
+          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AzsujPLHrevVX7Bo9bhl79mkG6/uploaded-1773636088268-82cmns9w.jpg"
           imageAlt="professional auto service team in uniform shop"
           mediaAnimation="blur-reveal"
           mediaPosition="right"
@@ -173,7 +173,7 @@ export default function LandingPage() {
               ]
             }
           ]}
-          copyrightText="© 2024 ProTint Pueblo. All rights reserved. Professional window tinting and windshield repair in Pueblo, CO."
+          copyrightText="© 2024 Cangrejo Window Tinting. All rights reserved. Professional window tinting and windshield repair in Pueblo, CO."
         />
       </div>
     </ThemeProvider>
