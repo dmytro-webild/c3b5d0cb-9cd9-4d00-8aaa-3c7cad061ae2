@@ -108,7 +108,7 @@ export default function LandingPage() {
       <div id="metrics" data-section="metrics">
         <MetricCardTwo
           title="Why Choose Cangrejo"
-          description="Best PrProven expertise and customercommitment  satisfaction metrics that demonstrate our to quality service."
+          description="Competitive pricing and proven expertise makes us the best choice for your car. "
           tag="Our Track Record"
           tagIcon={Award}
           tagAnimation="slide-up"
