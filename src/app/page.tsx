@@ -63,7 +63,7 @@ export default function LandingPage() {
 
       <div id="about" data-section="about">
         <TextAbout
-          tag="About ProTint Pueblo"
+          tag="About Cangrejo"
           tagIcon={Shield}
           tagAnimation="slide-up"
           title="Quality Window Tinting & Windshield Repair You Can Trust"
