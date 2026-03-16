@@ -47,7 +47,7 @@ export default function LandingPage() {
           tag="Pueblo's Trusted Tinting Expert"
           tagIcon={Sparkles}
           tagAnimation="slide-up"
-          background={{ variant: "aurora" }}
+          background={{ variant: "animated-grid" }}
           buttons={[
             { text: "Schedule Service", href: "#contact" },
             { text: "Learn More", href: "#about" }
