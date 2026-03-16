@@ -10,7 +10,7 @@ import { Libre_Baskerville } from "next/font/google";
 
 
 export const metadata: Metadata = {
-  title: 'ProTint Pueblo | Professional Window Tinting & Windshield Repair',
+  title: 'Cangrejo Window Tint | Professional Window Tinting & Windshield Repair',
   description: 'Best prices on auto window tinting and windshield repair in Pueblo, CO. Professional service, guaranteed satisfaction. Schedule your free quote today.',
 };
 
