@@ -13,11 +13,14 @@ export const metadata: Metadata = {
   description: 'Best prices on auto window tinting and windshield repair in Pueblo, CO. Professional service, guaranteed satisfaction. Schedule your free quote today.',
 };
 
+
 const publicSans = Public_Sans({
-  variable: "--font-public-sans",  subsets: ["latin"],
+  variable: "--font-public-sans",
+  subsets: ["latin"],
 });
 const inter = Inter({
-  variable: "--font-inter",  subsets: ["latin"],
+  variable: "--font-inter",
+  subsets: ["latin"],
 });
 
 export default function RootLayout({
